@@ -1,0 +1,12 @@
+body, html {
+  height: 100%;
+}
+.bg {
+  /* The image used */
+  /* Full height */
+  height: 945px;
+
+  /* Center and scale the image nicely */
+  background: url("https://99px.ru/sstorage/53/2017/02/tmb_192125_8218.png") no-repeat center;
+  background-size: cover;
+}

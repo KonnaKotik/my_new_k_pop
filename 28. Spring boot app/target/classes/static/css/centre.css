@@ -1,0 +1,14 @@
+.block-button {
+    padding: 8px 40px;
+    margin-right: 10px;
+}
+
+.center{
+ display: block;
+ margin: 0 auto;
+}
+
+.slide-title {
+    font-size: 48px;
+    font-family: "maison_neuebold",Verdana,Arial,sans-serif;
+}
